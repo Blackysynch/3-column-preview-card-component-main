@@ -13,7 +13,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/my-solution-3column-preview-card-component-Saj26JWP2h)
 - Live Site URL: [live-page](https://blackysynch.github.io/3-column-preview-card-component-main/)
 
 ## My process
