@@ -21,7 +21,7 @@ main{
 .card{
     display: grid;
     width: 50%;
-    height: 40%;
+    min-height: 40%;
     position: absolute;
     top: 50%;
     left: 50%;
